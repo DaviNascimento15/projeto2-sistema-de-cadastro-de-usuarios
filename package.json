@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "jest": "^30.0.5",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "projeto-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+"scripts": {
+  "test": "jest"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
